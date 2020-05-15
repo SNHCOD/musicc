@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=qqqMyxv5al4",
+        "name": "Oye Mujer",
+        "artist": "Raymix",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=VfRTM-b_K_M",
+        "name": "Amor Tóxico",
+        "artist": "Kumbia Love",
+        "soundId": "sound.mcdisc.2"
+    }
+]
