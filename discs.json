@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "minecraftId": "item.mcdisc.1",
+        "minecraftId": "record_1",
         "url": "https://www.youtube.com/watch?v=qqqMyxv5al4",
         "name": "Oye Mujer",
         "artist": "Raymix",
@@ -9,10 +9,26 @@
     },
     {
         "id": 2,
-        "minecraftId": "item.mcdisc.2",
+        "minecraftId": "record_2",
         "url": "https://www.youtube.com/watch?v=VfRTM-b_K_M",
         "name": "Amor Tóxico",
         "artist": "Kumbia Love",
         "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "record_3",
+        "url": "https://www.youtube.com/watch?v=eS1arr93M14",
+        "name": "Tus Jefes No Me Quieren",
+        "artist": "Grupo Ensamble",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "record_4",
+        "url": "https://www.youtube.com/watch?v=hJYdnD0Vkxw",
+        "name": "Primer Beso",
+        "artist": "Raymix",
+        "soundId": "sound.mcdisc.4"
     }
-]
+   ]
